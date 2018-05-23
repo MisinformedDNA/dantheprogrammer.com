@@ -1,3 +1,12 @@
 img{
     max-width: 100%;
 }
+
+.post a, .post-preview a {
+    color: #337ab7;
+    text-decoration: none;
+}
+
+.post-preview h2 {
+    color: #333333
+}

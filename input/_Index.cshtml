@@ -30,7 +30,8 @@
                     else
                     {
                         @Html.Raw(post.String(BlogKeys.Excerpt))
-                    }             
+                    }
+                    <a href="@Context.GetLink(post)">Read more...</a>
                 </div>       
             }
         }
