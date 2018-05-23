@@ -9,9 +9,9 @@ I created my [first web page](https://web.archive.org/web/19970606013147/http://
 
 Now, it's probably hard imagine such a scenario, but it existed. HTML was invented in 1990, JavaScript in 1995, and CSS in 1996. These were the early days of the web.
 
-NOTE: The Wayback Machine wasn't even started until 1996, so I've been making websites longer than its existance.
+Thanks to the [Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), I'm been able to find an old version of my web site. The Wayback Machine is like a digital archive of the entire internet. It started in 1996, so I've been making websites longer than its existance. (I feel old.)
 
-Here's my [first known](https://web.archive.org/web/19970606013147/http://www.imsa.edu:80/~greenday/) web page:
+Anyway, here's my [first known](https://web.archive.org/web/19970606013147/http://www.imsa.edu:80/~greenday/) web page:
 
 ![My First Home Page](../images/first-home-page.jpg)
 
