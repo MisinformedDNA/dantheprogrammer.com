@@ -12,6 +12,7 @@ Tags:
 - Azure Key Vault
 - cloud
 
+Image: ../images/keeping-secrets.jpg
 ---
 
 Config values can be used for multiple purposes. This post will address how we sometimes use them and how we can be more secure.
