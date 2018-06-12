@@ -1,4 +1,4 @@
-Title: Keeping Secrets
+Title: Keeping Secrets in ASP.NET Core
 Image: ../images/keeping-secrets.jpg
 Published: 6/11/2018
 Tags:
