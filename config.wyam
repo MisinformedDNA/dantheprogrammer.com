@@ -1,8 +1,9 @@
 #recipe Blog
 
 // Customize your settings and add new ones here
-Settings[Keys.Host] = "host.com";
+Settings[Keys.Host] = "www.dantheprogrammer.com";
 Settings[BlogKeys.Title] = "Dan Friedman";
 Settings[BlogKeys.Description] = "Dan is currently... Programming.";
 Settings[BlogKeys.Intro] = @"Programming is and has been my passion for over 20 years. When I retire, I plan on programming... more.";
+Settings[Keys.LinksUseHttps] = true;
 // Add any pipeline customizations here
